@@ -18,7 +18,7 @@ git log
 
 ```bash
 commit a1b2c3d4e5f6...
-Author: Karim Ech-Chatty <karim@example.com>
+Author: Karim EchChatty <karim@example.com>
 Date:   Mon Mar 10 2026
 
     fix login bug on mobile
@@ -41,9 +41,9 @@ Date:   Mon Mar 10 2026
 ### To Do
 
 1. Run `git log` in your project — read the full output carefully
-2. Run `git log --oneline` — notice how much cleaner it is
-3. Run `git log --oneline --graph` — can you see the branch structure?
-4. Run `git log --stat` — which files changed in each commit?
+2. Run `git log --oneline` notice how much cleaner it is
+3. Run `git log --oneline --graph` can you see the branch structure?
+4. Run `git log --stat` which files changed in each commit?
 
 ---
 
